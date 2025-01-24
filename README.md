@@ -78,7 +78,7 @@ pip install -r requirements.txt
 - Все тесты: `pytest`
 
 ## Настройка окружения
-Создайте в короне проекта файл .env и укажите необходимые параметры:
+Создайте в корне проекта файл .env и укажите необходимые параметры:
 
 BASE_URL=https://teachers-platform.com
 USERNAME=test_user
